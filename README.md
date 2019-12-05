@@ -1,6 +1,6 @@
 # What-happened-to-livetrack.io-
 
-What happened  to livetrack.io? Can we bring livetrack.io back to live again?  
+What happened  to livetrack.io? Is it possible to bring livetrack.io back to live again?  
 
 Livetrack.io fitted perfectly to IpBike. I don t know any other application appart from Garmin connect mobile which would be suitable for a live-tracking service.
 
