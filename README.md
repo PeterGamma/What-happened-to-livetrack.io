@@ -16,7 +16,7 @@ Disadvantages of  IoT streaming: :
 
 - It only works with newer GARMIN watches
 - fee necessary for Microsoft Azure Cloud service
-- software developement for IoT streaming could be difficult
+- software developement is necessary in the Microsoft Azure Cloud platform
 - no GPS
 
 I first contacted Nils Knielings about the subject of MATLAB and  livetrack.io. I asked him whether it was possible to  use livetrack.io for streaming to MATLAB.
