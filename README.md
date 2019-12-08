@@ -56,6 +56,6 @@ Nils Knielings is founder of the organization livetrack.io. He stopped livetrack
 
 - In the description of livetracking.io Nils Knieling mentioned that developers are welcome.
 
-- Anyone who is interested in solving these problems are welcome here in this project.
+- Anyone who is interested in solving these problems is welcome here in this project (send an e-mail to peter.gamma.2019@gmail.com).
 
 
