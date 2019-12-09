@@ -2,8 +2,6 @@
 
 Zurich 6.12.2019
 
-What happened  to livetrack.io? Is it possible to bring livetrack.io back to life again?  
-
 Livetrack.io fitted perfectly to IpBike. I don t know any other application appart from Garmin connect mobile which would be suitable for a live-tracking service.
 
 There is another live-streaming service available now from Dave Does Demos called IoT streaming: 
