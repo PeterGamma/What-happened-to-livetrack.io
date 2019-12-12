@@ -1,6 +1,6 @@
 # What-happened-to-livetrack.io-
 
-Zurich 6.12.2019
+6.12.2019
 
 Livetrack.io fitted perfectly to IpBike. I don t know any other application appart from Garmin connect mobile which would be suitable for a live-tracking service.
 
