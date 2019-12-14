@@ -55,5 +55,8 @@ Nils Knielings is founder of the organization livetrack.io. He stopped livetrack
 - In the description of livetracking.io Nils Knieling mentioned that developers are welcome.
 
 - Anyone who is interested in solving these problems is welcome here in this project (send an e-mail to peter.gamma.2019@gmail.com).
+- see also here:
+
+https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/#msg2828468
 
 
