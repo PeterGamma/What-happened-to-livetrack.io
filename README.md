@@ -63,4 +63,8 @@ https://forums.garmin.com/developer/connect-iq/f/discussion/209486/build-new-liv
 
 https://www.mathworks.com/matlabcentral/answers/518101-is-there-an-example-how-to-stream-ant-sensor-data-live-to-matlab?s_tid=prof_contriblnk
 
+.
+The domain name LiveTracking.io is for sale now:
+
+https://livetracking.io/de-de
 
