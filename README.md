@@ -108,7 +108,9 @@ c) Bluetooth smart example code without Matlab?
 
 Someone already developed an excellent bluetooth smart example in Matlab. I would be great if there would also be bluetooth smart example without Matlab.
 
- GATT client-server scenario as specified in the Bluetooth core specification, and Wireshark
+ GATT client-server scenario as specified in the Bluetooth core specification and Wireshark
 
-https://www.mathworks.com/matlabcentral ... hest-strap
-Top
+https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
+
+ I suppose the author of the example code has developed the example without Matlab and a BLE heart rate sensor. I was searching for it in the Wireshark community. Unfortunately, I could not find it. It would be great to have such an example without Matlab and a BLE sensor.
+
