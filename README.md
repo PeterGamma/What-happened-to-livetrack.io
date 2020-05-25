@@ -72,15 +72,19 @@ https://livetracking.io/de-de
 
 Alternatives
 
-1. Integration of the MQQT path into IpBike, join the feature request discussion
+1. To find a person who can communicate with Nils Knieling, convince him to bring it back, help him to debug the project when It is buggy, or convince him to offer a product
+
+https://github.com/Cyclenerd
+
+2. Integration of the MQQT path into IpBike, join the feature request discussion
 
 http://www.iforpowell.com/cms/index.php?mact=Forum,m862f6,topic,1&m862f6prev_link=default&m862f6fid=2&m862f6tid=653&m862f6post_pagenumber=1&m862f6returnid=73&page=73
 
-2. Integration of the MQQT path into a training tracker, join the feature request discussion
+3. Integration of the MQQT path into a training tracker, join the feature request discussion
 
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
-3. Developement of the MQQT path over Rasperri PI or Pinephone,DY project
+4. Developement of the MQQT path over Rasperri PI or Pinephone,DY project
 
 https://www.thisisant.com/forum/viewthread/7362/
 
