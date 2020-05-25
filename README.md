@@ -104,7 +104,7 @@ b) trying to find fiends for this path in the Bitalino  forum:
 
 https://forum.bitalino.com/viewtopic.php?f=19&t=610
 
-c) Bluetooth smart example code without Matlab?
+c) Bluetooth smart example code in the Wireshark community?
 
 Someone already developed an excellent example in Matlab:
 
