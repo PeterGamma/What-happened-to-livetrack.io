@@ -112,6 +112,6 @@ Someone already developed an excellent example in Matlab:
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
- I suppose the author of the example code has developed the example with a BLE heart rate sensor. It would be great to know which BLE heart rate sensor he was using.
+I could not find a heart rate sensor, which is compatible to ble example in Matlab. It would be great to know which BLE heart rate sensor the author of the example was using.
  
 
