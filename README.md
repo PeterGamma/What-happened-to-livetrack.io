@@ -94,9 +94,9 @@ https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-t
 
 https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
 
-6. Bluetooth smart streaming path without Matlab:
+6. Bluetooth smart streaming solution:
 
-a) trying to find friends for this path in the mind monitor forum:
+a) trying to find friends for this solution in the mind monitor forum:
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
 
@@ -104,7 +104,7 @@ b) trying to find fiends for this path in the Bitalino  forum:
 
 https://forum.bitalino.com/viewtopic.php?f=19&t=610
 
-c) Bluetooth smart example code in the Wireshark community?
+c) Bluetooth smart example code in Matlab
 
 Someone already developed an excellent example in Matlab:
 
@@ -112,7 +112,6 @@ Someone already developed an excellent example in Matlab:
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
- I suppose the author of the example code has developed the example without Matlab and a BLE heart rate sensor. I was searching for it in the Wireshark community. Unfortunately, I could not find it. 
+ I suppose the author of the example code has developed the example with a BLE heart rate sensor. It would be great to know which BLE heart rate sensor he was using.
  
- It would be great to have such a BLE example code without Matlab and a BLE sensor.
 
