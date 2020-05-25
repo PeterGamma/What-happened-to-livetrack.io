@@ -80,6 +80,9 @@ http://www.iforpowell.com/cms/index.php?mact=Forum,m862f6,topic,1&m862f6prev_lin
 
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
+3. Developement of the MQQT path over Rasperri PI or Pinephone,DY project
+
+https://www.thisisant.com/forum/viewthread/7362/
 
 
 
