@@ -93,3 +93,7 @@ https://www.thisisant.com/forum/viewthread/7362/
 https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
 
 https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
+
+6. Other bluetooth smart streams without Matlab
+
+https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
