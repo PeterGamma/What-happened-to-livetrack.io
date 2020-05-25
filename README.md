@@ -70,3 +70,16 @@ The domain name LiveTracking.io is for sale now:
 
 https://livetracking.io/de-de
 
+Alternatives
+
+1. Integration of the MQQT path into IpBike, join the feature request discussion
+
+http://www.iforpowell.com/cms/index.php?mact=Forum,m862f6,topic,1&m862f6prev_link=default&m862f6fid=2&m862f6tid=653&m862f6post_pagenumber=1&m862f6returnid=73&page=73
+
+2. Integration of the MQQT path into a training tracker, join the feature request discussion
+
+https://github.com/rainerblind/aTrainingTracker/issues/34
+
+
+
+
