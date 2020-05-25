@@ -103,3 +103,12 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
 b) trying to find fiends for this path in the Bitalino  forum:
 
 https://forum.bitalino.com/viewtopic.php?f=19&t=610
+
+c) Bluetooth smart example code without Matlab?
+
+Someone already developed an excellent bluetooth smart example in Matlab. I would be great if there would also be bluetooth smart example without Matlab.
+
+ GATT client-server scenario as specified in the Bluetooth core specification, and Wireshark
+
+https://www.mathworks.com/matlabcentral ... hest-strap
+Top
