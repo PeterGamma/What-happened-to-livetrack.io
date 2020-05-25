@@ -94,12 +94,12 @@ https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-t
 
 https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
 
-6. Other bluetooth smart streaming paths without Matlab:
+6. Bluetooth smart streaming path without Matlab:
 
-a) trying to fiend friends for this path in the mind monitor forum:
+a) trying to find friends for this path in the mind monitor forum:
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
 
-b) trying to fiend friends for this path in the Bitalino  forum:
+b) trying to find fiends for this path in the Bitalino  forum:
 
 https://forum.bitalino.com/viewtopic.php?f=19&t=610
