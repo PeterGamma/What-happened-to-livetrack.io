@@ -88,5 +88,8 @@ https://github.com/rainerblind/aTrainingTracker/issues/34
 
 https://www.thisisant.com/forum/viewthread/7362/
 
+5. Join the discussion to find a path for streaming bluetooth smart sensors like Polar OH1 and Stryd Foot Pod
 
+https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
 
+https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
