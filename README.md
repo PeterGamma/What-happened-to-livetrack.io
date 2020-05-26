@@ -110,6 +110,8 @@ Someone already developed an example of BLE devices with Heart Rate Profile usin
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
-I could not find a heart rate sensor, which is compatible to ble example in Matlab. It would be great to know which BLE heart rate sensor the author of the example was using.
+Unfortunately, there is no example code for a specific watch available for this example to this date
+
+https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
  
 
