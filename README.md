@@ -84,33 +84,17 @@ http://www.iforpowell.com/cms/index.php?mact=Forum,m862f6,topic,1&m862f6prev_lin
 
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
-4. Developement of the MQQT path over Rasperri PI or Pinephone, Community project in the THIS IS ANT Forum
+4. MQQT path over Rasperri PI or Pinephone
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-5. Join the discussion to find a path for streaming bluetooth smart sensors like Polar OH1 and Stryd Foot Pod
-
-https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
-
-https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
-
-6. Bluetooth smart streaming solution:
-
-a) trying to find friends for this solution in the mind monitor forum:
-
-https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
-
-b) trying to find fiends for this path in the Bitalino  forum:
-
-https://forum.bitalino.com/viewtopic.php?f=19&t=610
-
-c) BLEv5.0 example code in Matlab
+5. BLEv5.0 example code in Matlab
 
 Someone already developed an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
-Unfortunately, there is no example code for a specific watch available for this example to this date
+Unfortunately, there is no example code for a specific watch available for this example in Matlab to this date
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
  
