@@ -55,11 +55,13 @@ Nils Knielings is founder of the organization livetrack.io. He stopped livetrack
 - In the description of livetracking.io Nils Knieling mentioned that developers are welcome.
 .
 https://forums.garmin.com/developer/connect-iq/f/discussion/209486/build-new-livetracking-io-service-form-old-livetracking-io-components
-..
+
+.
 The domain name LiveTracking.io is for sale now:
 
 https://livetracking.io/de-de
-..
+.
+
 Alternatives
 
 1. To find a person who can communicate with Nils Knieling, convince him to bring it back, help him to debug the project when It is buggy, or convince him to offer a product
