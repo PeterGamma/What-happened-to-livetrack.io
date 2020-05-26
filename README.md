@@ -53,17 +53,10 @@ Nils Knielings is founder of the organization livetrack.io. He stopped livetrack
 - or other reasons
 
 - In the description of livetracking.io Nils Knieling mentioned that developers are welcome.
-
-- Anyone who is interested in solving these problems is welcome here in this project (send an e-mail to peter.gamma.2019@gmail.com).
+.
 
 https://forums.garmin.com/developer/connect-iq/f/discussion/209486/build-new-livetracking-io-service-form-old-livetracking-io-components
 
-.
-.
-
-https://www.mathworks.com/matlabcentral/answers/518101-is-there-an-example-how-to-stream-ant-sensor-data-live-to-matlab?s_tid=prof_contriblnk
-
-.
 .
 
 The domain name LiveTracking.io is for sale now:
