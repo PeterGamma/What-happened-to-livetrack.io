@@ -104,11 +104,9 @@ b) trying to find fiends for this path in the Bitalino  forum:
 
 https://forum.bitalino.com/viewtopic.php?f=19&t=610
 
-c) Bluetooth smart example code in Matlab
+c) BLEv5.0 example code in Matlab
 
-Someone already developed an excellent example in Matlab:
-
- GATT client-server scenario as specified in the Bluetooth core specification and Wireshark
+Someone already developed an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
