@@ -60,6 +60,7 @@ https://forums.garmin.com/developer/connect-iq/f/discussion/209486/build-new-liv
 The domain name LiveTracking.io is for sale now:
 
 https://livetracking.io/de-de
+
 .
 
  Nils Knielings Github:
