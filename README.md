@@ -62,7 +62,7 @@ The domain name LiveTracking.io is for sale now:
 https://livetracking.io/de-de
 .
 
-Maybe someone can cooperate with Nils Knieling to debug the project 
+ Nils Knielings Github:
 
 https://github.com/Cyclenerd
 
