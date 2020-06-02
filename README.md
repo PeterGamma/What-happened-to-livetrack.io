@@ -62,7 +62,7 @@ The domain name LiveTracking.io is for sale now:
 https://livetracking.io/de-de
 .
 
- Nils Knielings Github:
+ Nils Knielings Github, developer of  LiveTracking.io :
 
 https://github.com/Cyclenerd
 
