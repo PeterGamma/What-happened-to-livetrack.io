@@ -66,4 +66,8 @@ https://livetracking.io/de-de
 
 https://github.com/Cyclenerd
 
+Here is the definition for "nerd" google translate gave to me
 
+"a foolish or contemptible person who lacks social skills or is boringly studious"
+
+Me personally, I would not choose "nerd" as part of my nick name on my Github. 
