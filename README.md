@@ -97,4 +97,19 @@ If Niels does not want to, the software is still be open source:
 
 https://livetracking.nkn-it.de/
 
+.
+.
+
+
+Live Tracking, Live tracking for data nerds is available again, but the domain LiveTracking.io has been sold, and now it is only available for food manufacturers:
+.
+.
+
+https://www.livetracking.io/
+
+.
+.
+
+therefore, a new domain is needed, which is supported by ipBike.
+
 
