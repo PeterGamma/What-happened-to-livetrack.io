@@ -90,7 +90,7 @@ maybe a "Data Nerd" tries to deal with Niels?
 .
 .
 
-I Niels cannot be reached, the software should still be open source:
+If Niels does not want to, the software is still be open source:
 
 .
 .
