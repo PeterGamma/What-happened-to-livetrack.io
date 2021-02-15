@@ -102,6 +102,7 @@ https://livetracking.nkn-it.de/
 
 
 Live Tracking, Live tracking for data nerds is available again, but the domain LiveTracking.io has been sold, and now it is only available for food manufacturers:
+
 .
 .
 
