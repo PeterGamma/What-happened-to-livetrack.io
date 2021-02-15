@@ -71,3 +71,19 @@ Here is the definition for "nerd" google translate gave to me
 "a foolish or contemptible person who lacks social skills or is boringly studious"
 
 @Cyclenerd: Everybody is free to choose his own nick name on his Github account. But me personally, I would not choose "nerd" as part of my nick name on my Github account. 
+
+.
+.
+
+Niels Knieling has now a new project "livetrack.io"
+
+.
+.
+
+https://github.com/livetracking
+
+.
+.
+
+maybe a "Data Nerd" tries to deal with Niels?
+
